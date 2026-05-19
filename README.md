@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Data Scientist · Statistician · Translator between models and decisions</em>
-  <em>To be Or Not To be</em>
+  <em>\n To be Or Not To be</em>
 </p>
 
 <p align="center">
