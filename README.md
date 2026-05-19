@@ -1,8 +1,7 @@
 <h1 align="center">Tony (Guanlin Chen)</h1>
 
 <p align="center">
-  <em>Data Scientist · Statistician · Translator between models and decisions</em>
-  <em>\n To be Or Not To be</em>
+  <em>Data Scientist · Statistician · Translator between models and decisions <br> To be Or Not To be</em>
 </p>
 
 <p align="center">
