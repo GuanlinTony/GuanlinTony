@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/Toronto%2C%20ON-Canada-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Shenzhen%2C%20ON-China-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Shenzhen%2C%20Guangdong-China-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
