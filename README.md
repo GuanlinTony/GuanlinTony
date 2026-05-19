@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Tony 👋</h1>
+<h1 align="center">Tony (Guanlin Chen)</h1>
 
 <p align="center">
   <em>Data Scientist · Statistician · Translator between models and decisions</em>
+  <em>To be Or Not To be</em>
 </p>
 
 <p align="center">
