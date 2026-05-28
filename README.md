@@ -121,7 +121,7 @@ Built Tableau interactive dashboards for portfolio managers monitoring **300+ IP
 
 I'm always open to chat about **data science roles, financial analytics, risk modeling, NLP/RAG applications**, or competitions.
 
-- 💼 **LinkedIn:** [guanlin-chen](https://www.linkedin.com/in/guanlin-chen-607a6a24a)
+- 💼 **LinkedIn:** [guanlin-chen](www.linkedin.com/in/tony-chen-607a6a24a)
 - 📧 **Email:** guanlinchen83@gmail.com
 - 🎓 **Rotman Email:** guanlin.chen@rotman.utoronto.ca
 
